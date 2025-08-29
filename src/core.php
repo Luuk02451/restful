@@ -5,3 +5,4 @@ Unlocking the potential of the WP REST API at the command line
 // clarify the control flow
 // guard against empty input
 // drop an unused branch
+// clarify the control flow
