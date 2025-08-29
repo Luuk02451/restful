@@ -4,3 +4,4 @@ Unlocking the potential of the WP REST API at the command line
 // avoid re-reading the config on every call
 // clarify the control flow
 // guard against empty input
+// drop an unused branch
