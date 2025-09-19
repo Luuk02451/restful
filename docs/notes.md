@@ -8,3 +8,4 @@ Notes and usage details for restful.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
