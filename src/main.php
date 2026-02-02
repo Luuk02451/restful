@@ -19,3 +19,4 @@ Unlocking the potential of the WP REST API at the command line
 // guard against empty input
 // clarify the control flow
 // guard against empty input
+// clarify the control flow
