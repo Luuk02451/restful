@@ -24,3 +24,4 @@ Unlocking the potential of the WP REST API at the command line
 // drop an unused branch
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// clarify the control flow
